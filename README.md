@@ -50,7 +50,7 @@ Para usar a **VenomForge**, você precisa ter o **Metasploit** e o **msfvenom** 
 
 ### Passo 1: Execute o script
 
-Após instalar as dependências e garantir que o **Metasploit** está instalado corretamente, execute o script `venomforge.py`:
+Após instalar as dependências e garantir que o **Metasploit** está instalado corretamente, execute o script `main.py`:
 
 ```bash
 python main.py
